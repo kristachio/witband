@@ -1,0 +1,32 @@
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+h1, h2, h3 {
+    font-family: "Duru Sans", sans-serif;
+}
+
+h2 {
+    color:  #2b52ac;
+}
+
+header h2 {
+    color: #62acdd;
+}
+
+footer {
+    background-image: linear-gradient(#62acdd, white);
+    padding: 20px 0;
+}
+
+.jumbotron {
+    padding: 30px;
+    background-image: linear-gradient(to left, #62acdd, #2b52ac, #19106b);
+    color: white;
+}
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+}
